@@ -1,0 +1,289 @@
+{
+  "name": "My Yard 2020",
+  "window_width": 700,
+  "window_height": 500,
+  "bg_color": "black",
+  "channels":
+  [
+    {
+      "name": "house",
+      "channel": 0,
+      "shape": "rectangle",
+      "x": 25,
+      "y": 0,
+      "height": 200,
+      "width": 650,
+      "color": "sienna"
+    },
+    {
+      "name": "porch",
+      "channel": 0,
+      "shape": "rectangle",
+      "x": 200,
+      "y": 20,
+      "height": 200,
+      "width": 300,
+      "color": "saddle brown"
+    },
+    {
+      "name": "post1",
+      "channel": 0,
+      "shape": "rectangle",
+      "x": 200,
+      "y": 20,
+      "height": 150,
+      "width": 20,
+      "color": "white"
+    },
+    {
+      "name": "post2",
+      "channel": 0,
+      "shape": "rectangle",
+      "x": 293,
+      "y": 20,
+      "height": 150,
+      "width": 20,
+      "color": "white"
+    },
+    {
+      "name": "post3",
+      "channel": 0,
+      "shape": "rectangle",
+      "x": 386,
+      "y": 20,
+      "height": 150,
+      "width": 20,
+      "color": "white"
+    },
+    {
+      "name": "post4",
+      "channel": 0,
+      "shape": "rectangle",
+      "x": 480,
+      "y": 20,
+      "height": 150,
+      "width": 20,
+      "color": "white"
+    },
+    {
+      "name": "center tree",
+      "channel": 0,
+      "shape": "triangle",
+      "x": 320,
+      "y": 230,
+      "height": 120,
+      "width": 60,
+      "color": "green"
+    },
+    {
+      "name": "leftbush1",
+      "channel": 1,
+      "shape": "circle",
+      "x": 10,
+      "y": 200,
+      "radius": 20,
+      "color": "blue"
+    },
+    {
+      "name": "leftbush2",
+      "channel": 1,
+      "shape": "circle",
+      "x": 50,
+      "y": 200,
+      "radius": 20,
+      "color": "blue"
+    },
+    {
+      "name": "leftbush3",
+      "channel": 1,
+      "shape": "circle",
+      "x": 90,
+      "y": 200,
+      "radius": 20,
+      "color": "white"
+    },
+    {
+      "name": "leftbush4",
+      "channel": 2,
+      "shape": "circle",
+      "x": 130,
+      "y": 200,
+      "radius": 20,
+      "color": "red"
+    },
+    {
+      "name": "leftbush5",
+      "channel": 2,
+      "shape": "circle",
+      "x": 170,
+      "y": 200,
+      "radius": 20,
+      "color": "red"
+    },
+    {
+      "name": "tree1",
+      "channel": 3,
+      "shape": "triangle",
+      "x": 200,
+      "y": 260,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree2",
+      "channel": 4,
+      "shape": "triangle",
+      "x": 220,
+      "y": 320,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree3",
+      "channel": 5,
+      "shape": "triangle",
+      "x": 260,
+      "y": 360,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree4",
+      "channel": 6,
+      "shape": "triangle",
+      "x": 310,
+      "y": 380,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree5",
+      "channel": 7,
+      "shape": "triangle",
+      "x": 370,
+      "y": 380,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree6",
+      "channel": 8,
+      "shape": "triangle",
+      "x": 420,
+      "y": 360,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree7",
+      "channel": 9,
+      "shape": "triangle",
+      "x": 460,
+      "y": 320,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "tree8",
+      "channel": 10,
+      "shape": "triangle",
+      "x": 480,
+      "y": 260,
+      "height": 60,
+      "width": 20,
+      "color": "orange"
+    },
+    {
+      "name": "rightbush1",
+      "channel": 11,
+      "shape": "circle",
+      "x": 510,
+      "y": 200,
+      "radius": 20,
+      "color": "red"
+    },
+    {
+      "name": "rightbush2",
+      "channel": 11,
+      "shape": "circle",
+      "x": 550,
+      "y": 200,
+      "radius": 20,
+      "color": "red"
+    },
+    {
+      "name": "rightbush3",
+      "channel": 12,
+      "shape": "circle",
+      "x": 590,
+      "y": 200,
+      "radius": 20,
+      "color": "white"
+    },
+    {
+      "name": "rightbush4",
+      "channel": 12,
+      "shape": "circle",
+      "x": 630,
+      "y": 200,
+      "radius": 20,
+      "color": "blue"
+    },
+    {
+      "name": "rightbush5",
+      "channel": 12,
+      "shape": "circle",
+      "x": 670,
+      "y": 200,
+      "radius": 20,
+      "color": "blue"
+    },
+    {
+      "name": "line1",
+      "channel": 13,
+      "shape": "line",
+      "x": 330,
+      "y": 350,
+      "x2": 350,
+      "y2": 230,
+      "color": "white"
+    },
+    {
+      "name": "line2",
+      "channel": 14,
+      "shape": "line",
+      "x": 343,
+      "y": 350,
+      "x2": 350,
+      "y2": 230,
+      "color": "white"
+    },
+    {
+      "name": "line3",
+      "channel": 15,
+      "shape": "line",
+      "x": 357,
+      "y": 350,
+      "x2": 350,
+      "y2": 230,
+      "color": "white"
+    },
+    {
+      "name": "line4",
+      "channel": 16,
+      "shape": "line",
+      "x": 370,
+      "y": 350,
+      "x2": 350,
+      "y2": 230,
+      "color": "white"
+    }
+  ]
+}
